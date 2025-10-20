@@ -1,0 +1,13 @@
+Codex
+Container Tools
+Database Client JDBC
+Docker
+Error Lens
+Go
+Makefile Tools
+Markdown All in One
+PostgreSQL
+Postman
+TabOut
+Vim
+YAML
